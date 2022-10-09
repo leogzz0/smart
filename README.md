@@ -1,10 +1,9 @@
 # smart
-Educational web-app that allows you to find courses from a variety of categories and also allows you to create your own content. 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-This project is a web-page designed with the purpose of sharing educational content or enrolling in new courses to earns certificates and expand your knowledge. 
+Educational web-app that allows you to find courses from a variety of categories and also allows you to create your own content. This project is a web-page designed with the purpose of sharing educational content or enrolling in new courses to earns certificates and expand your knowledge. 
 
 GitHub Repo: https://github.com/leogzz0/smart
 
