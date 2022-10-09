@@ -8,7 +8,7 @@ This project is a web-page designed with the purpose of sharing educational cont
 
 GitHub Repo: https://github.com/leogzz0/smart
 
-![Login Page](loginpage.png)
+![Home Page](Screen Shot 2022-10-09 at 12.35.26.png)
 
 ## Table of Contents 
 
